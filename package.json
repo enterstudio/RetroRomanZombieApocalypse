@@ -9,7 +9,7 @@
     "jade": "1.1.5",
     "less-middleware": "0.1.15",
     "express": "3.4.8",
-    "socket.io": "0.9.16",
+    "socket.io": "2.4.0",
     "node-uuid": "1.4.1",
     "lodash": "2.4.1"
   }
