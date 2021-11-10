@@ -6,10 +6,10 @@
     "start": "node app"
   },
   "dependencies": {
-    "jade": "1.1.5",
+    "jade": "1.8.0",
     "less-middleware": "0.1.15",
     "express": "3.4.8",
-    "socket.io": "0.9.16",
+    "socket.io": "1.0.1",
     "node-uuid": "1.4.1",
     "lodash": "2.4.1"
   }
