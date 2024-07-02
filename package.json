@@ -6,7 +6,7 @@
     "start": "node app"
   },
   "dependencies": {
-    "jade": "1.1.5",
+    "jade": "1.11.0",
     "less-middleware": "0.1.15",
     "express": "3.4.8",
     "socket.io": "0.9.16",
