@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "jade": "1.1.5",
-    "less-middleware": "0.1.15",
+    "less-middleware": "2.2.0",
     "express": "3.4.8",
     "socket.io": "0.9.16",
     "node-uuid": "1.4.1",
